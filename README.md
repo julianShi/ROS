@@ -1,2 +1,2 @@
 # ROS
-quadrotor project of Gareth
+quadrotor project
